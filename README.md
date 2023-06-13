@@ -1,4 +1,4 @@
-# -CodeClause-Data-Science
+# CodeClause-Data-Science
 This repository contains the code for the projects completed during the Data Science Internship at Code Clause.
 
 Project Details:
